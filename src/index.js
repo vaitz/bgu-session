@@ -4,7 +4,7 @@ import { Provider } from 'react-redux'
 import Page from './containers/page'
 import './style/main.css'
 import configureStore from './redux/store/configure-store'
-
+// change
 const store = configureStore()
 
 render(
